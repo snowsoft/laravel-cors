@@ -1,5 +1,5 @@
 {
-    "name": "fruitcake/laravel-cors",
+    "name": "snowsoft/laravel-cors",
     "description": "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
     "keywords": ["laravel", "cors", "crossdomain", "api"],
     "license": "MIT",
